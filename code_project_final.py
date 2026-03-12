@@ -24,7 +24,7 @@ start_time = None
 alert_duration = 3  # Alert if phone is held for 5 seconds
 
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
-phone_cascade = cv2.CascadeClassifier('myhaar3.xml')
+phone_cascade = cv2.CascadeClassifier('haarcascade_phone.xml')
 
 def lcd_init():
     lcd_byte(0x33, 0x00)
