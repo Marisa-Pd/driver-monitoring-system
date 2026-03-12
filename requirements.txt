@@ -1,1 +1,6 @@
 numpy==2.0.2
+```
+opencv-python
+numpy
+RPi.GPIO
+RPLCD
