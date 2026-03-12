@@ -59,7 +59,6 @@ driver-monitoring-system/
 ├── eyes_detection.py         # โมดูลตรวจจับการหลับตา
 ├── phone_detection.py       # โมดูลตรวจจับโทรศัพท์
 ├── lane_detection.py        # โมดูลตรวจจับเส้นเลน
-├── alert.py                 # โมดูลควบคุม Buzzer และ LCD
 │
 ├── haarcascade/
 │   ├── haarcascade_eye.xml
