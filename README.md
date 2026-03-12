@@ -1,6 +1,6 @@
 # 🚗 Driver Monitoring System
-ระบบตรวจจับพฤติกรรมอันตรายขณะขับรถแบบ Real-time
-พัฒนาด้วย Raspberry Pi และ OpenCV เป็น Final Year Project
+ระบบตรวจจับพฤติกรรมการขับขี่แบบ Real-time
+พัฒนาด้วย Raspberry Pi และ OpenCV เป็น Final Project
 
 ---
 
@@ -14,8 +14,8 @@
 ## ⚙️ เทคโนโลยีที่ใช้ (Tech Stack)
 | หมวด | เทคโนโลยี |
 |------|-----------|
-| Hardware | Raspberry Pi 4, Pi Camera, Buzzer, LCD 16x2 |
-| Language | Python 3 |
+| Hardware | Raspberry Pi 4, Web Camera, Buzzer, LCD 16x2 |
+| Language | Python |
 | Library | OpenCV, RPi.GPIO |
 | Algorithm | Haar Cascade Classifier, Hough Line Transform, Canny Edge Detection |
 
