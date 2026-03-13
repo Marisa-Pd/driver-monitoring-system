@@ -15,7 +15,7 @@
 | หมวด | เทคโนโลยี |
 |------|-----------|
 | Hardware | Raspberry Pi 4, Web Camera, Buzzer, LCD 16x2 |
-| Language | Python |
+| Language | Python 3 |
 | Library | OpenCV, RPi.GPIO |
 | Algorithm | Haar Cascade Classifier, Hough Line Transform, Canny Edge Detection |
 
